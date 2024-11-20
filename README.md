@@ -1,4 +1,4 @@
-# BLENDED_LEARNING
+
 # Implementation-of-Stochastic-Gradient-Descent-SGD-Regressor
 
 ## AIM:
